@@ -42,6 +42,7 @@ $$new = log_2(score + 1)$$
 ![image](https://github.com/ruanjz6235/cbond/assets/51026474/4f52c27a-b03e-4585-86e3-a6857ff517eb)
 
 上第一张图是$log_2(x+1)$和$log_10(9x+1)$，绿线是$log_2(x+1)$
+
 上第二张图是$2x-x^2$和$log_10(9x+1)$，绿线是$2x-x^2$
 
 **结果佐证了这一点。**
